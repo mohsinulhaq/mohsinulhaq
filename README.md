@@ -1,4 +1,4 @@
-# Hey there! 👋 I am Mohsin
+# Hey there! 👋 I am Mohsin (pronounced "Mosin" 🙂)
 ![](https://komarev.com/ghpvc/?username=mohsinulhaq)
 
     💻 I’m a Software Engineer at cure.fit.
