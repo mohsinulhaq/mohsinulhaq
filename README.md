@@ -1,7 +1,7 @@
 # Hey there! 👋 I am Mohsin (pronounced "Mosin" 🙂)
 ![](https://komarev.com/ghpvc/?username=mohsinulhaq)
 
-    💻 I’m a Software Engineer at cure.fit.
+    💻 I’m a Software Engineer at cure.fit
     📈 I’m currently working on React and React Native
     💟 I'm a TypeScript and GraphQL enthusiast
     📥 How to reach me: mohsinulhaq01@gmail.com
