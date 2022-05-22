@@ -1,7 +1,7 @@
 # Hey there! 👋 I am Mohsin (pronounced "Mosin" 🙂)
 ![](https://komarev.com/ghpvc/?username=mohsinulhaq)
 
-    💻 Software Engineer at Coinbase
+    💻 Senior Software Engineer at Coinbase
     📈 Currently working on React and React Native
     💟 TypeScript and GraphQL enthusiast
     📥 How to reach me: mohsinulhaq01@gmail.com
