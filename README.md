@@ -1,7 +1,7 @@
 # Hey there! 👋 I am Mohsin (pronounced "Mosin" 🙂)
 ![](https://komarev.com/ghpvc/?username=mohsinulhaq)
 
-    💻 Project Leader at D.E. SHaw
+    💻 Project Leader at D.E. Shaw
     📈 Currently working on React and TypeScript
     💟 Wasm & GraphQL enthusiast
     📥 How to reach me: mohsinulhaq01@gmail.com
