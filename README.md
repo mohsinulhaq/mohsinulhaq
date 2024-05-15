@@ -1,8 +1,8 @@
 # Hey there! 👋 I am Mohsin (pronounced "Mosin" 🙂)
 ![](https://komarev.com/ghpvc/?username=mohsinulhaq)
 
-    💻 Lead Tech at D.E. Shaw
-    📈 Working on React and TypeScript
+    💻 Senior Software Engineer at HolidayCheck
+    📈 Working on React and Node.js
     📥 How to reach me: mohsinulhaq01@gmail.com
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohsinulhaq&theme=dark)  
